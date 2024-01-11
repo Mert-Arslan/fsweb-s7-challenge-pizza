@@ -1,0 +1,8 @@
+.order-sum{
+    background-color: red;
+    width: 100vb;
+    height: 50vw;
+    display: flex;
+    align-items: center;
+    color: white;
+}

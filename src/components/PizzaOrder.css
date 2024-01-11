@@ -1,0 +1,44 @@
+.header-section{
+    background-color: red;
+}
+.chosen.one{
+    background-color: red;
+}
+.size-options{
+    border: 1px;
+    border-color: red;
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 69px;
+    height: 30px;
+    flex-direction: column;
+    justify-content: center;
+}
+.crust-options{
+    display: flex;
+    width: 158px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.pastry-options{
+    background-color: pink;
+    margin-top: 50px;
+    margin-bottom: 50px;    
+    display: flex;
+    flex-direction:row-reverse; 
+
+} 
+
+.additional-material{
+    background-color: rgba(119, 128, 0, 0.041);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+}
+.button-group{
+    border-radius: 1em;
+    background-color: gold;
+}
